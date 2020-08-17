@@ -17,8 +17,8 @@
 #include <ArduinoJson.h>
 
 // WiFi configuration
-const char ssid[] = "bozzograo";  //  your network SSID (name)
-const char pass[] = "E398f98c22";       // your network password
+const char ssid[] = "ssid";  //  your network SSID (name)
+const char pass[] = "password";       // your network password
 
 // NTP configuration
 const char *ntpServerName = "pool.ntp.org";
